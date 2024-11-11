@@ -1,0 +1,8 @@
+langchain
+openai
+mysql-connector-python
+langchain-openai
+PyPDF2
+docx2txt
+requests
+langchain-ai21
